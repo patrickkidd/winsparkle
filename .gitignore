@@ -20,3 +20,4 @@ packages
 pascal/lib/
 pascal/backup/
 .vs
+.DS_Store
